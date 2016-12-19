@@ -63,8 +63,8 @@
 <footer class="container">
     <div class="site-footer" role="contentinfo">
         <div class="copyright left mobile-block">
-            © 2015
-            <span >phpyc.com</span>
+            © 2016
+            <span >myblog.yiitest.cn</span>
             <a href="javascript:window.scrollTo(0,0)" class="right mobile-visible">TOP</a>
         </div>
 
@@ -73,7 +73,7 @@
                 <a href="javascript:window.scrollTo(0,0)" >TOP</a>
             </li>
         </ul>
-        <a href="https://github.com/yccphp/laravel-5-blog" target="_blank" aria-label="view source code">
+        <a href="https://github.com/shlj/blog" target="_blank" aria-label="view source code">
             <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
         </a>
 
